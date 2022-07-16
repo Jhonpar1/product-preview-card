@@ -33,8 +33,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/Jhonpar1/product-preview-card)
-- Live Site URL: [Add live site URL here](https://jhonpar1.github.io/product-preview-card)
+- Solution URL: [Solution URL](https://github.com/Jhonpar1/product-preview-card)
+- Live Site URL: [Live site URL](https://jhonpar1.github.io/product-preview-card)
 
 ## My process
 
