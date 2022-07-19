@@ -79,5 +79,5 @@ I would like improve my skills in css without use frameworks.
 ## Author
 
 - Website - [Jhon F. Parra](https://www.linkedin.com/in/jhon-f-parra-689852199)
-- Frontend Mentor - [@Jhonpar1](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.frontendmentor.io/profile/Jhonpar1)
+- Frontend Mentor - [@Jhonpar1](https://www.frontendmentor.io/profile/Jhonpar1)
+- Twitter - [@JhonPar17221090](https://twitter.com/JhonPar17221090)
